@@ -1,0 +1,2378 @@
+{
+  "categories": [
+    {
+      "name": "Food and Drink",
+      "productCount": 57137,
+      "id": "1-32806",
+      "relevance": 10,
+      "subCategories": [
+        {
+          "name": "Beverages",
+          "productCount": 12848,
+          "relevance": 20,
+          "id": "2-2144059",
+          "subCategories": [
+            {
+              "name": "Tea Drinks, Bags & Mixes",
+              "productCount": 4337,
+              "specialRelevance":"inherit",
+              "id": "3-7677_a:2144069",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Tea Drinks, Bags & Mixes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7677_a:2144069&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Coffee Drinks, Mixes & Beans",
+              "productCount": 2552,
+              "specialRelevance":"inherit",
+              "id": "3-7677_a:2144064",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Coffee Drinks, Mixes & Beans",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7677_a:2144064&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Sports & Energy Drinks",
+              "relevance": 0,
+              "productCount": 1369,
+              "id": "3-7677_a:2144065",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Sports & Energy Drinks",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7677_a:2144065&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Bottled Waters",
+              "relevance": 20,
+              "productCount": 685,
+              "id": "3-7677_a:2144061",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Bottled Waters",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7677_a:2144061&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Fruit & Vegetable Juices & Concentrates",
+              "productCount": 771,
+              "relevance": 25,
+              "id": "3-7677_a:2144066",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Fruit & Vegetable Juices & Concentrates",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7677_a:2144066&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Cocoa/Chocolate Drinks & Mixes",
+              "productCount": 578,
+              "specialRelevance":"inherit",
+
+              "id": "3-7677_a:2194135",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Cocoa/Chocolate Drinks & Mixes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7677_a:2194135&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Soft Drinks & Sodas",
+              "productCount": 306,
+              "relevance": 0,
+
+              "id": "3-7677_a:2144068",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Soft Drinks & Sodas",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7677_a:2144068&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Premade Drinks & Mixers",
+              "productCount": 198,
+              "relevance": 0,
+
+              "id": "3-7677_a:2144067",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Premade Drinks & Mixers",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7677_a:2144067&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Rice & Soy Drinks & Mixes",
+              "productCount": 54,
+              "specialRelevance":"inherit",
+
+              "id": "3-7677_a:2144060",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Rice & Soy Drinks & Mixes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7677_a:2144060&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Smoothies",
+              "productCount": 43,
+              "specialRelevance":"inherit",
+
+              "id": "3-7677_a:11216142",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Smoothies",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7677_a:11216142&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Dairy Drinks & Mixes",
+              "productCount": 1,
+              "specialRelevance":"inherit",
+
+              "id": "3-7677_a:2144062",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Dairy Drinks & Mixes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7677_a:2144062&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Beverages",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2144059&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Condiments & Seasonings",
+          "productCount": 12045,
+          "specialRelevance":"inherit",
+          "id": "2-2143970",
+          "subCategories": [
+            {
+              "name": "Honey & Syrups",
+              "productCount": 777,
+              "relevance": 30,
+
+              "id": "3-7669_a:2143971",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Honey & Syrups",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2143971&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Barbeque & Grill Seasoning",
+              "productCount": 850,
+              "id": "3-7669_a:2195413",
+              "specialRelevance":"inherit",
+
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Barbeque & Grill Seasoning",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2195413&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Peanut & Other Butters",
+              "productCount": 698,
+              "relevance": 30,
+
+              "id": "3-7669_a:2143978",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Peanut & Other Butters",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2143978&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Pickled Products",
+              "productCount": 747,
+              "specialRelevance":"inherit",
+
+              "id": "3-7669_a:2143980",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Pickled Products",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2143980&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Jams, Jellies & Preserves",
+              "productCount": 656,
+              "id": "3-7669_a:2143975",
+              "specialRelevance":"inherit",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Jams, Jellies & Preserves",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2143975&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Vinegars",
+              "productCount": 502,
+              "relevance": 30,
+              "id": "3-7669_a:2143982",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Vinegars",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2143982&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Salsas, Dips & Spreads",
+              "productCount": 671,
+              "relevance": 5,
+
+              "id": "3-7669_a:2143972",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Salsas, Dips & Spreads",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2143972&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Herbs, Spices & Seasonings",
+              "productCount": 510,
+              "specialRelevance":"inherit",
+
+              "id": "3-7669_a:2143983",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Herbs, Spices & Seasonings",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2143983&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Hot Sauces",
+              "productCount": 544,
+              "relevance": 10,
+
+              "id": "3-7669_a:2143973",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Hot Sauces",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2143973&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Salad Dressings",
+              "productCount": 495,
+              "relevance": 10,
+              "id": "3-7669_a:2143984",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Salad Dressings",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2143984&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Mustards",
+              "productCount": 392,
+              "specialRelevance":"inherit",
+              "id": "3-7669_a:2143979",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Mustards",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2143979&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Ketchups",
+              "productCount": 77,
+              "specialRelevance":"inherit",
+
+              "id": "3-7669_a:2143977",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Ketchups",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2143977&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Chutneys & Relishes",
+              "productCount": 69,
+              "specialRelevance":"inherit",
+
+              "id": "3-7669_a:2143981",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Chutneys & Relishes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7669_a:2143981&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Condiments & Seasonings",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2143970&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Snacks",
+          "productCount": 7905,
+          "specialRelevance":"inherit",
+          "id": "2-2143985",
+          "subCategories": [
+            {
+              "name": "Snack Bars",
+              "productCount": 1964,
+              "relevance": 0,
+              "id": "3-7670_a:12453654",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Snack Bars",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7670_a:12453654&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Chips & Pretzels",
+              "productCount": 1616,
+              "relevance": 0,
+
+              "id": "3-7670_a:2143990",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Chips & Pretzels",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7670_a:2143990&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Crackers",
+              "productCount": 1014,
+              "relevance": 10,
+              "id": "3-7670_a:2143991",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Crackers",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7670_a:2143991&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Seasoned Nuts & Mixes",
+              "productCount": 807,
+              "relevance": 10,
+              "id": "3-7670_a:2143993",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Seasoned Nuts & Mixes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7670_a:2143993&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Jerky",
+              "productCount": 445,
+              "specialRelevance":"inherit",
+              "id": "3-7670_a:2143987",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Jerky",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7670_a:2143987&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Popcorn",
+              "productCount": 342,
+              "specialRelevance":"inherit",
+
+              "id": "3-7670_a:2143992",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Popcorn",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7670_a:2143992&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Trail Mix",
+              "productCount": 129,
+              "specialRelevance":"inherit",
+              "id": "3-7670_a:12440738",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Trail Mix",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7670_a:12440738&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Toaster Pastries",
+              "productCount": 65,
+              "id": "3-7670_a:11216149",
+              "relevance": 10,
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Toaster Pastries",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7670_a:11216149&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Fruit Rolls & Chews",
+              "productCount": 26,
+              "relevance": 10,
+              "id": "3-7670_a:2143986",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Fruit Rolls & Chews",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7670_a:2143986&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Collections",
+              "productCount": 23,
+              "relevance": 0,
+
+              "id": "3-7670_a:2194690",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Collections",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7670_a:2194690&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Snacks",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2143985&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Cooking & Baking Products",
+          "productCount": 5937,
+          "relevance": 50,
+
+          "id": "2-2143942",
+          "subCategories": [
+            {
+              "name": "Sauces",
+              "productCount": 857,
+              "relevance": 20,
+
+              "id": "3-7667_a:2143953",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Sauces",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143953&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Oils, Fats & Shortenings",
+              "productCount": 685,
+              "relevance": 50,
+              "id": "3-7667_a:2143957",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Oils, Fats & Shortenings",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143957&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Sugars & Sweeteners",
+              "productCount": 521,
+              "relevance": 50,
+
+              "id": "3-7667_a:2143958",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Sugars & Sweeteners",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143958&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Flours",
+              "productCount": 350,
+              "relevance": 50,
+
+              "id": "3-7667_a:2143944",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Flours",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143944&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Flavorings, Marinades & Glazes",
+              "productCount": 297,
+              "relevance": 20,
+              "id": "3-7667_a:2143948",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Flavorings, Marinades & Glazes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143948&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Baking Kits & Mixes",
+              "productCount": 250,
+              "relevance": 10,
+
+              "id": "3-7667_a:2143956",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Baking Kits & Mixes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143956&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Pancake & Waffle Mixes",
+              "productCount": 121,
+              "relevance": 10,
+
+              "id": "3-7667_a:11824151",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Pancake & Waffle Mixes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:11824151&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Cake & Cookie Decorations",
+              "productCount": 90,
+              "relevance": 10,
+
+              "id": "3-7667_a:2143943",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Cake & Cookie Decorations",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143943&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Crumbs & Breading",
+              "productCount": 102,
+              "relevance": 20,
+
+              "id": "3-7667_a:2143945",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Crumbs & Breading",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143945&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Frostings, Toppings & Mixes",
+              "productCount": 102,
+              "relevance": 10,
+
+              "id": "3-7667_a:2143950",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Frostings, Toppings & Mixes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143950&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Stocks",
+              "productCount": 53,
+              "relevance": 10,
+
+              "id": "3-7667_a:2143955",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Stocks",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143955&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Puddings & Pie Fillings",
+              "productCount": 37,
+              "relevance": 10,
+
+              "id": "3-7667_a:12440733",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Puddings & Pie Fillings",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:12440733&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Baking Powder",
+              "productCount": 14,
+              "relevance": 50,
+
+              "id": "3-7667_a:2143951",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Baking Powder",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143951&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Food Colorings",
+              "productCount": 10,
+              "relevance": 0,
+
+              "id": "3-7667_a:2143954",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Food Colorings",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143954&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Gelatins",
+              "productCount": 7,
+              "relevance": 10,
+              "id": "3-7667_a:12440732",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Gelatins",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:12440732&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Baking Chocolates & Flavor Chips",
+              "productCount": 5,
+              "relevance": 0,
+              "id": "3-7667_a:2143947",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Baking Chocolates & Flavor Chips",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143947&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Stuffing Mixes",
+              "productCount": 3,
+              "relevance": 10,
+
+              "id": "3-7667_a:2143959",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Stuffing Mixes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7667_a:2143959&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Cooking & Baking Products",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2143942&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Cereals & Grains",
+          "productCount": 4297,
+          "relevance": 40,
+          "id": "2-2144024",
+          "subCategories": [
+            {
+              "name": "Pastas",
+              "productCount": 858,
+              "specialRelevance":"inherit",
+              "id": "3-7674_a:2144027",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Pastas",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7674_a:2144027&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Rices",
+              "productCount": 652,
+              "specialRelevance":"inherit",
+              "id": "3-7674_a:2144025",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Rices",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7674_a:2144025&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Ready to Eat Cereals",
+              "productCount": 490,
+              "id": "3-7674_a:2144030",
+              "relevance": 0,
+
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Ready to Eat Cereals",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7674_a:2144030&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Grains",
+              "productCount": 450,
+              "specialRelevance":"inherit",
+
+              "id": "3-7674_a:2144028",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Grains",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7674_a:2144028&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Legumes",
+              "productCount": 410,
+              "relevance": 10,
+              "id": "3-7674_a:2144026",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Legumes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7674_a:2144026&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Hot Cereals & Oatmeal",
+              "productCount": 328,
+              "relevance": 10,
+
+              "id": "3-7674_a:2144029",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Hot Cereals & Oatmeal",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7674_a:2144029&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Granola",
+              "productCount": 393,
+              "relevance": 10,
+
+              "id": "3-7674_a:12440731",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Granola",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7674_a:12440731&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Egg Noodles",
+              "productCount": 41,
+              "relevance": 10,
+
+              "id": "3-7674_a:11889564",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Egg Noodles",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7674_a:11889564&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Cereals & Grains",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2144024&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Candies & Chocolates",
+          "productCount": 4296,
+          "relevance": 10,
+
+          "id": "2-2143994",
+          "subCategories": [
+            {
+              "name": "Candy Bars",
+              "relevance": 0,
+
+              "productCount": 557,
+              "id": "3-7671_a:2144001",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Candy Bars",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:2144001&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Assorted Chewy Candy",
+              "productCount": 429,
+              "relevance": 0,
+
+              "id": "3-7671_a:10733116",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Assorted Chewy Candy",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:10733116&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Bubble & Chewing Gums",
+              "productCount": 315,
+              "relevance": 0,
+
+              "id": "3-7671_a:2143995",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Bubble & Chewing Gums",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:2143995&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Toffees, Caramels & Chews",
+              "productCount": 209,
+              "relevance": 10,
+
+              "id": "3-7671_a:2144000",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Toffees, Caramels & Chews",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:2144000&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Chocolate Covered Fruits & Candies",
+              "productCount": 151,
+              "relevance": 0,
+
+              "id": "3-7671_a:2143997",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Chocolate Covered Fruits & Candies",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:2143997&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Lollipops & Sticks",
+              "productCount": 176,
+              "relevance": 0,
+
+              "id": "3-7671_a:2144005",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Lollipops & Sticks",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:2144005&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Jelly Beans",
+              "productCount": 152,
+              "relevance": 10,
+              "id": "3-7671_a:2144004",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Jelly Beans",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:2144004&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Assorted Hard Candies",
+              "productCount": 146,
+              "relevance": 10,
+
+              "id": "3-7671_a:2144003",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Assorted Hard Candies",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:2144003&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Breath Fresheners",
+              "productCount": 104,
+              "relevance": 0,
+
+              "id": "3-7671_a:10989867",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Breath Fresheners",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:10989867&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Boxed Chocolates & Truffles",
+              "productCount": 99,
+              "relevance": 0,
+
+              "id": "3-7671_a:2143999",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Boxed Chocolates & Truffles",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:2143999&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Licorice",
+              "productCount": 95,
+              "specialRelevance":"inherit",
+              "id": "3-7671_a:2143996",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Licorice",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:2143996&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Candy Combination Sets",
+              "productCount": 66,
+              "relevance": 0,
+              "id": "3-7671_a:2144002",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Candy Combination Sets",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:2144002&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Novelty Candies",
+              "productCount": 68,
+              "relevance": 0,
+              "id": "3-7671_a:2143998",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Novelty Candies",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:2143998&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Rock Candy",
+              "productCount": 4,
+              "id": "3-7671_a:2144006",
+              "relevance": 10,
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Rock Candy",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7671_a:2144006&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Candies & Chocolates",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2143994&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Prepared Foods",
+          "productCount": 2525,
+          "relevance": 0,
+          "id": "2-2144014",
+          "subCategories": [
+            {
+              "name": "Soups & Stews",
+              "productCount": 748,
+              "specialRelevance":"inherit",
+              "id": "3-7673_a:2144016",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Soups & Stews",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:2144016&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Rice Dishes",
+              "productCount": 245,
+              "specialRelevance":"inherit",
+              "id": "3-7673_a:12440737",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Rice Dishes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:12440737&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Macaroni & Cheese",
+              "productCount": 130,
+              "specialRelevance":"inherit",
+
+              "id": "3-7673_a:12440734",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Macaroni & Cheese",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:12440734&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Chilis",
+              "productCount": 145,
+              "specialRelevance":"inherit",
+
+              "id": "3-7673_a:2144017",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Chilis",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:2144017&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Pasta & Noodle Dishes",
+              "productCount": 115,
+              "specialRelevance":"inherit",
+
+              "id": "3-7673_a:12440735",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Pasta & Noodle Dishes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:12440735&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Complete Meals",
+              "productCount": 128,
+              "specialRelevance":"inherit",
+
+              "id": "3-7673_a:2144018",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Complete Meals",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:2144018&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Side Dishes",
+              "productCount": 112,
+              "specialRelevance":"inherit",
+
+              "id": "3-7673_a:2209791",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Side Dishes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:2209791&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Entrees",
+              "productCount": 60,
+              "specialRelevance":"inherit",
+
+              "id": "3-7673_a:2144020",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Entrees",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:2144020&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Breakfast Foods",
+              "productCount": 27,
+              "specialRelevance":"inherit",
+
+              "id": "3-7673_a:2144015",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Breakfast Foods",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:2144015&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Canned Beans",
+              "productCount": 17,
+              "relevance": 10,
+              "id": "3-7673_a:11216144",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Canned Beans",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:11216144&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Potatoes",
+              "productCount": 10,
+              "relevance": 10,
+              "id": "3-7673_a:12440736",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Potatoes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:12440736&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Appetizers & Hors D'Oeuvres",
+              "productCount": 4,
+              "specialRelevance":"inherit",
+
+              "id": "3-7673_a:2144019",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Appetizers & Hors D'Oeuvres",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:2144019&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Pizzas",
+              "productCount": 2,
+              "specialRelevance":"inherit",
+
+              "id": "3-7673_a:2144022",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Pizzas",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7673_a:2144022&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Prepared Foods",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2144014&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Baby Food",
+          "productCount": 1079,
+          "id": "2-11216133",
+          "relevance": 0,
+          "subCategories": [],
+          "links": [
+            {
+              "rel": "Baby Food",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-11216133&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Food Gifts & Baskets",
+          "productCount": 1328,
+          "relevance": 0,
+          "id": "2-2143960",
+          "subCategories": [
+            {
+              "name": "Candies & Chocolates",
+              "productCount": 106,
+              "specialRelevance":"inherit",
+
+              "id": "3-7668_a:2143965",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Candies & Chocolates",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7668_a:2143965&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Snacks",
+              "productCount": 104,
+              "specialRelevance":"inherit",
+
+              "id": "3-7668_a:2143961",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Snacks",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7668_a:2143961&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Condiments & Seasonings",
+              "productCount": 154,
+              "relevance": 10,
+
+              "id": "3-7668_a:2143963",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Condiments & Seasonings",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7668_a:2143963&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Cheese Boards & Baskets",
+              "productCount": 89,
+              "relevance": 0,
+
+              "id": "3-7668_a:11745634",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Cheese Boards & Baskets",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7668_a:11745634&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Vegetables, Nuts & Fruits",
+              "productCount": 80,
+              "relevance": 10,
+
+              "id": "3-7668_a:2143968",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Vegetables, Nuts & Fruits",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7668_a:2143968&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Beer, Wine & Spirits",
+              "productCount": 71,
+              "specialRelevance":"inherit",
+
+              "id": "3-7668_a:2143962",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Beer, Wine & Spirits",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7668_a:2143962&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Gourmet Gifts",
+              "productCount": 37,
+              "specialRelevance":"inherit",
+
+              "id": "3-7668_a:11805493",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Gourmet Gifts",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7668_a:11805493&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Beverage",
+              "productCount": 22,
+              "specialRelevance":"inherit",
+
+              "id": "3-7668_a:2143969",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Beverage",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7668_a:2143969&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Baked Goods & Desserts",
+              "productCount": 22,
+              "specialRelevance":"inherit",
+
+              "id": "3-7668_a:2143964",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Baked Goods & Desserts",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7668_a:2143964&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Meat, Poultry & Seafood",
+              "productCount": 6,
+              "relevance": 10,
+
+              "id": "3-7668_a:2143967",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Meat, Poultry & Seafood",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7668_a:2143967&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Food Gifts & Baskets",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2143960&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Dairy Products",
+          "productCount": 1092,
+          "relevance": 50,
+
+          "id": "2-2143936",
+          "subCategories": [
+            {
+              "name": "Cheeses & Dairy Spreads",
+              "productCount": 536,
+              "specialRelevance":"inherit",
+
+              "id": "3-7666_a:2143941",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Cheeses & Dairy Spreads",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7666_a:2143941&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Milks & Creams",
+              "productCount": 50,
+              "specialRelevance":"inherit",
+
+              "id": "3-7666_a:2143938",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Milks & Creams",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7666_a:2143938&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Milk Substitutes",
+              "productCount": 22,
+              "specialRelevance":"inherit",
+
+              "id": "3-7666_a:2143937",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Milk Substitutes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7666_a:2143937&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Ice Creams",
+              "productCount": 4,
+              "specialRelevance":"inherit",
+              "relevance": 10,
+
+              "id": "3-7666_a:2143939",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Ice Creams",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7666_a:2143939&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Yogurt",
+              "productCount": 1,
+              "relevance": 50,
+
+              "id": "3-7666_a:11911627",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Yogurt",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7666_a:11911627&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Dairy Products",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2143936&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Bread & Bakery Goods",
+          "productCount": 945,
+          "id": "2-2144007",
+          "relevance": 50,
+
+          "subCategories": [
+            {
+              "name": "Cookies & Biscuits",
+              "productCount": 600,
+              "relevance": 20,
+
+              "id": "3-7672_a:2507688",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Cookies & Biscuits",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7672_a:2507688&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Cakes, Tortes & Pastries",
+              "productCount": 117,
+              "relevance": 20,
+
+              "id": "3-7672_a:2144013",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Cakes, Tortes & Pastries",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7672_a:2144013&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Bars & Brownies",
+              "productCount": 44,
+              "relevance": 20,
+
+              "id": "3-7672_a:2144012",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Bars & Brownies",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7672_a:2144012&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Breads",
+              "productCount": 39,
+              "specialRelevance":"inherit",
+
+              "id": "3-7672_a:2194688",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Breads",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7672_a:2194688&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Croutons",
+              "productCount": 29,
+              "relevance": 50,
+              "id": "3-7672_a:2144009",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Croutons",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7672_a:2144009&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Pies & Tarts",
+              "productCount": 21,
+              "relevance": 0,
+              "id": "3-7672_a:2144008",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Pies & Tarts",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7672_a:2144008&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Tortillas, Pitas & Wraps",
+              "productCount": 3,
+              "relevance": 20,
+
+              "id": "3-7672_a:11860829",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Tortillas, Pitas & Wraps",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7672_a:11860829&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Bread & Bakery Goods",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2144007&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Tobacco Products & Supplies",
+          "productCount": 1156,
+          "id": "2-2190300",
+          "relevance": 0,
+
+          "subCategories": [
+            {
+              "name": "Lighters",
+              "productCount": 516,
+              "specialRelevance":"inherit",
+
+              "id": "3-7931_a:2190311",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Lighters",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7931_a:2190311&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Cigar & Pipe Tools",
+              "productCount": 157,
+              "specialRelevance":"inherit",
+
+              "id": "3-7931_a:2190304",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Cigar & Pipe Tools",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7931_a:2190304&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Cigar Carriers & Cases",
+              "productCount": 141,
+              "specialRelevance":"inherit",
+
+              "id": "3-7931_a:2507692",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Cigar Carriers & Cases",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7931_a:2507692&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Humidors & Accessories",
+              "productCount": 79,
+              "specialRelevance":"inherit",
+
+              "id": "3-7931_a:2190310",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Humidors & Accessories",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7931_a:2190310&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Cigarette Holders",
+              "productCount": 7,
+              "specialRelevance":"inherit",
+
+              "id": "3-7931_a:2190306",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Cigarette Holders",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7931_a:2190306&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Pipes",
+              "productCount": 6,
+              "specialRelevance":"inherit",
+
+              "id": "3-7931_a:2190315",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Pipes",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7931_a:2190315&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Tobacco Flavoring Oils",
+              "productCount": 2,
+              "specialRelevance":"inherit",
+
+              "id": "3-7931_a:2190317",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Tobacco Flavoring Oils",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7931_a:2190317&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Rolling Machines & Papers",
+              "productCount": 1,
+              "specialRelevance":"inherit",
+
+              "id": "3-7931_a:2190316",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Rolling Machines & Papers",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7931_a:2190316&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Tobacco Products & Supplies",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2190300&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Meats, Poultry & Seafood",
+          "productCount": 975,
+          "relevance": 50,
+
+          "id": "2-2144044",
+          "subCategories": [
+            {
+              "name": "Fish",
+              "productCount": 302,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2144052",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Fish",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2144052&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Caviar",
+              "productCount": 105,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2144046",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Caviar",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2144046&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Shellfish",
+              "productCount": 126,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2195580",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Shellfish",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2195580&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Beef",
+              "productCount": 68,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2144057",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Beef",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2144057&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Other Meat & Poultry",
+              "productCount": 50,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2144058",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Other Meat & Poultry",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2144058&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Pork",
+              "productCount": 39,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2144055",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Pork",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2144055&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Meat, Seafood & Poultry Combinations",
+              "productCount": 14,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2144056",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Meat, Seafood & Poultry Combinations",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2144056&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Bison",
+              "productCount": 9,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:11824073",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Bison",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:11824073&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Chicken",
+              "productCount": 9,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2144045",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Chicken",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2144045&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Lamb",
+              "productCount": 9,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2144053",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Lamb",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2144053&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Venison",
+              "productCount": 9,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2195581",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Venison",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2195581&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Duck",
+              "productCount": 5,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2144051",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Duck",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2144051&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Buffalo",
+              "productCount": 3,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2144049",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Buffalo",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2144049&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Turkey",
+              "productCount": 2,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2144047",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Turkey",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2144047&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Meat Alternatives",
+              "productCount": 1,
+              "specialRelevance":"inherit",
+
+              "id": "3-7676_a:2195579",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Meat Alternatives",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7676_a:2195579&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Meats, Poultry & Seafood",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2144044&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Fruits, Nuts & Vegetables",
+          "productCount": 516,
+          "relevance": 50,
+
+          "id": "2-2144070",
+          "subCategories": [
+            {
+              "name": "Bulk & Baking Nuts",
+              "productCount": 148,
+              "specialRelevance":"inherit",
+
+              "id": "3-7678_a:2144072",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Bulk & Baking Nuts",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7678_a:2144072&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Dried Fruits",
+              "productCount": 119,
+              "specialRelevance":"inherit",
+
+              "id": "3-7678_a:2144073",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Dried Fruits",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7678_a:2144073&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Canned Vegetables",
+              "productCount": 78,
+              "specialRelevance":"inherit",
+
+              "id": "3-7678_a:2144071",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Canned Vegetables",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7678_a:2144071&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Canned Fruits",
+              "productCount": 78,
+              "specialRelevance":"inherit",
+
+              "id": "3-7678_a:2144077",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Canned Fruits",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7678_a:2144077&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Olives & Capers",
+              "productCount": 1,
+              "specialRelevance":"inherit",
+
+              "id": "3-7678_a:2195578",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Olives & Capers",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7678_a:2195578&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Fresh Vegetables",
+              "productCount": 1,
+              "specialRelevance":"inherit",
+
+              "id": "3-7678_a:2144075",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Fresh Vegetables",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7678_a:2144075&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Fruits, Nuts & Vegetables",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2144070&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Beer, Wine & Spirits",
+          "productCount": 158,
+          "specialRelevance":"inherit",
+
+          "id": "2-2144033",
+          "subCategories": [
+            {
+              "name": "Premade Alcoholic Drinks & Mixers",
+              "productCount": 95,
+              "relevance": 0,
+
+              "id": "3-7675_a:4010105",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Premade Alcoholic Drinks & Mixers",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7675_a:4010105&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Red Wines",
+              "productCount": 19,
+              "specialRelevance":"inherit",
+
+              "id": "3-7675_a:2144040",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Red Wines",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7675_a:2144040&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Beers & Ciders",
+              "productCount": 14,
+              "specialRelevance":"inherit",
+
+              "id": "3-7675_a:2144035",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Beers & Ciders",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7675_a:2144035&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "Non-Alcoholic Wine, Beer & Cider",
+              "productCount": 3,
+              "specialRelevance":"inherit",
+
+              "id": "3-7675_a:2144038",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "Non-Alcoholic Wine, Beer & Cider",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7675_a:2144038&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            },
+            {
+              "name": "White Wines",
+              "productCount": 2,
+              "specialRelevance":"inherit",
+
+              "id": "3-7675_a:2144041",
+              "subCategories": [],
+              "links": [
+                {
+                  "rel": "White Wines",
+                  "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=3-7675_a:2144041&locale=en_US",
+                  "type": "application/json"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "rel": "Beer, Wine & Spirits",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-2144033&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Monthly Clubs",
+          "productCount": 29,
+          "relevance": 0,
+
+          "id": "2-4031553",
+          "subCategories": [],
+          "links": [
+            {
+              "rel": "Monthly Clubs",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-4031553&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        },
+        {
+          "name": "Restaurant Voucher",
+          "productCount": 6,
+          "relevance": 0,
+
+          "id": "2-11201725",
+          "subCategories": [],
+          "links": [
+            {
+              "rel": "Restaurant Voucher",
+              "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=2-11201725&locale=en_US",
+              "type": "application/json"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "rel": "Food and Drink",
+          "href": "https://api.shop.com/AffiliatePublisherNetwork/v1/products/?publisherID=TEST&categoryId=1-32806&locale=en_US",
+          "type": "application/json"
+        }
+      ]
+    }
+  ]
+}
