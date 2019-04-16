@@ -8,8 +8,19 @@ public class ShopComCategory {
 	private String name;
 	private String basicId;
 	private String compoundId;
+	private String parentingPrefix;
 
    
+	public String getParentingPrefix() {
+		return parentingPrefix;
+	}
+
+
+	public void setParentingPrefix(String parentingPrefix) {
+		this.parentingPrefix = parentingPrefix;
+	}
+
+
 	private int relevance;
     private ShopComCategory parentCategory;
     private List<ShopComCategory> childCategories;
